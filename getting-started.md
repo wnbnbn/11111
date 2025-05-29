@@ -5,6 +5,7 @@ Welcome to your new foam workspace, let's get you started.
 > if you are already familiar with Foam and don't need help, just remove the `docs` folder for a clean repo.
 
 Let's go through this to set up your repo:
+6666666666666666666666666
 
 - [ ] if you are new with VS Code, see how to [[get-started-with-vscode]] and how to [[use-keyboard-shortcuts-for-editing]]
 
